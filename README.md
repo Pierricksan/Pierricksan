@@ -1,0 +1,10 @@
+
+Hello ! I'm Pierrick, a new developer in this huge ocean... 
+
+I did Law studies before to get the will on learning about programming and coding. 
+
+I'm mainly learning about Python and the framework DJANGO at the moment and I have basic knowledge about HTLM and CSS (but keep learning
+
+Currently following formation on UDEMY, I'm looking for collaboring on a Backend project using DJANGO. 
+
+you can reach me on this @ : rousselot.pierrick@protonmail.com 
