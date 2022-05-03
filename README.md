@@ -1,5 +1,5 @@
 
-import Pierrick Profil from Introduction
+from Introduction import Pierrick Profil 
 
  <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 
