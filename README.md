@@ -1,6 +1,8 @@
 
 import Pierrick Profil from Introduction
 
+ <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+
 >>> print("Hello World !") 
 
 >>> I'm Pierrick, a new developer in this huge ocean... 
