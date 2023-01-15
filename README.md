@@ -1,20 +1,12 @@
 
 from Introduction import Pierrick Profil 
 
- <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-
->>> print("Hello World !") 
-
+>>> console.log("Hello World !") 
 >>> I'm Pierrick, a new developer in this huge ocean... 
-
->>> I did Law studies before to get the will on learning about programming and coding. 
-
-/* I'm mainly learning about Python and the framework DJANGO at the moment and I have basic knowledge about HTLM and CSS (but keep learning) */
-
-$     I would like to work on that field (web development)
-
-$     Currently following formation on UDEMY, I'm looking for collaboring on a Backend project using DJANGO. 
+In the web develoment, I finished a formation in Openclassrooms school. I'm looking for collaboring on a Backend project using Javascript
 
 // Dont hesitate to send me a message if you are interested in my profil // 
 
 you can reach me on this @ : rousselot.pierrick@protonmail.com 
+
+<img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
