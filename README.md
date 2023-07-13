@@ -3,9 +3,9 @@ from Introduction import Pierrick Profil
 
 >>> console.log("Hello World !") 
 >>> I'm Pierrick, a new developer in this huge ocean... 
-In the web develoment, I finished a formation in Openclassrooms school. I'm looking for collaboring on a Backend project using Javascript
+In the web development, I got a certification from OpenClassroom and M2i formation.
+>>> Got certified with AZ-900 and Mulesoft developer level 1
 
-// Dont hesitate to send me a message if you are interested in my profil // 
 
 you can reach me on this @ : rousselot.pierrick@protonmail.com 
 
